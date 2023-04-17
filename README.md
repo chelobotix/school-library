@@ -21,7 +21,6 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 
-- [🧑🏻‍💻 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Available Scripts](#available-scripts)
   - [Clone](#clone)
@@ -55,12 +54,6 @@
 - **Class Person, Student and Teacher**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🧑🏻‍💻 Live Demo <a name="live-demo"></a>
-
-Coming soon...
-
-<br/>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
