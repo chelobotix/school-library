@@ -8,8 +8,8 @@
   <img src="https://user-images.githubusercontent.com/65084923/220200035-01fa5e08-af6a-495b-b597-55157a2b7d95.gif" alt="logo" />
   <br/>
 
-  <h3><b>Enumerable Ruby App</b></h3>
-  <h3><b>Enumerable Ruby App - Ruby Microverse Project Module 4</b></h3>
+  <h3><b>School Library</b></h3>
+  <h3><b>School Library - Ruby Microverse Project Module 4</b></h3>
 
 </div>
 
@@ -33,9 +33,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Enumerable Ruby App - Ruby Microverse Project Module 4<a name="about-project"></a>
+# 📖 School Library - Ruby Microverse Project Module 4<a name="about-project"></a>
 
-> Enumerable Ruby App developed with Ruby.
+> School Library developed with Ruby.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,8 +52,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Implement some methods of Enumerable**
-- **Implement methods #all? #any? and #filter?**
+- **Class Person, Student and Teacher**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +71,7 @@ To get a local copy up and use as a template, follow these steps.
 Clone this repository to your desired folder:
 
 ```sh
-  https://github.com/SFarida/enumerable.git
+  https://github.com/chelobotix/school-library.git
 ```
 
 To install the necessary dependencies, you should run:
@@ -104,27 +103,18 @@ To fix all Linter error automatically
 - GitHub: [@chelobotix](https://github.com/chelobotix)
 - Linkedin: [Marcelo Alarcon](https://www.linkedin.com/in/marceloalarconb/)
 
-👤 **Author**
-
-: Farida Gueleu
-
-ca Cameroon 💓
-
-- GitHub: [@SFarida](https://github.com/SFarida)
-- Linkedin: [Farida Gueleu](https://www.linkedin.com/in/farida-gueleu/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **UI**
+- [ ] **More Classes**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/SFarida/enumerable/issues).
+Feel free to check the [issues page](https://github.com/chelobotix/school-library/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
