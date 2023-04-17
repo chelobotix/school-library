@@ -3,13 +3,13 @@
 <div align="center">
 
   <img src="https://user-images.githubusercontent.com/65084923/231513445-05c342c5-a239-46b8-bcb8-78d3cd89421d.png" alt="logo" width="100"  height="auto" />
-  <img src="https://user-images.githubusercontent.com/65084923/231513552-358a0a7b-a152-4f5b-806e-c8a09f2c269b.png" alt="logo" width="100"  height="auto" />
+  <img src="https://user-images.githubusercontent.com/65084923/232604539-ea646b45-13a1-4214-9ffa-6720ec9634bf.png" alt="logo" width="100"  height="auto" />
   <br/>
   <img src="https://user-images.githubusercontent.com/65084923/220200035-01fa5e08-af6a-495b-b597-55157a2b7d95.gif" alt="logo" />
   <br/>
 
-  <h3><b>Enumerable Ruby App</b></h3>
-  <h3><b>Enumerable Ruby App - Ruby Microverse Project Module 4</b></h3>
+  <h3><b>School Library</b></h3>
+  <h3><b>School Library - Ruby Microverse Project Module 4</b></h3>
 
 </div>
 
@@ -21,7 +21,6 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 
-- [🧑🏻‍💻 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Available Scripts](#available-scripts)
   - [Clone](#clone)
@@ -33,9 +32,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Enumerable Ruby App - Ruby Microverse Project Module 4<a name="about-project"></a>
+# 📖 School Library - Ruby Microverse Project Module 4<a name="about-project"></a>
 
-> Enumerable Ruby App developed with Ruby.
+> School Library developed with Ruby.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,16 +51,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Implement some methods of Enumerable**
-- **Implement methods #all? #any? and #filter?**
+- **Class Person, Student and Teacher**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🧑🏻‍💻 Live Demo <a name="live-demo"></a>
-
-Coming soon...
-
-<br/>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -72,7 +64,7 @@ To get a local copy up and use as a template, follow these steps.
 Clone this repository to your desired folder:
 
 ```sh
-  https://github.com/SFarida/enumerable.git
+  https://github.com/chelobotix/school-library.git
 ```
 
 To install the necessary dependencies, you should run:
@@ -104,27 +96,18 @@ To fix all Linter error automatically
 - GitHub: [@chelobotix](https://github.com/chelobotix)
 - Linkedin: [Marcelo Alarcon](https://www.linkedin.com/in/marceloalarconb/)
 
-👤 **Author**
-
-: Farida Gueleu
-
-ca Cameroon 💓
-
-- GitHub: [@SFarida](https://github.com/SFarida)
-- Linkedin: [Farida Gueleu](https://www.linkedin.com/in/farida-gueleu/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **UI**
+- [ ] **More Classes**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/SFarida/enumerable/issues).
+Feel free to check the [issues page](https://github.com/chelobotix/school-library/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,9 +134,9 @@ My mother. Let's play until the end together ❤️ with 🧠
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](<a href="./licence">License</a>) licensed.
+This project is [MIT](<a href="./LICENSE">License</a>) licensed.
 
-<a href="./licence">License</a>
+<a href="./LICENSE">License</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
