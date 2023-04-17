@@ -134,9 +134,9 @@ My mother. Let's play until the end together ❤️ with 🧠
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](<a href="./licence">License</a>) licensed.
+This project is [MIT](<a href="./LICENSE">License</a>) licensed.
 
-<a href="./licence">License</a>
+<a href="./LICENSE">License</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
