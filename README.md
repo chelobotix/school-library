@@ -52,6 +52,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Class Person, Student and Teacher**
+- **Add Decorator to Capitalize and Trim name**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
