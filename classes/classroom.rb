@@ -1,5 +1,4 @@
 class Classroom
-
   attr_accessor :label
   attr_reader :students
 
@@ -12,5 +11,4 @@ class Classroom
     @students << students
     student.classroom = self
   end
-
 end

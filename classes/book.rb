@@ -1,5 +1,4 @@
 class Book
-
   attr_accessor :title, :author
   attr_reader :rentals
 
@@ -8,6 +7,4 @@ class Book
     @author = author
     @rentals = []
   end
-
-
 end
