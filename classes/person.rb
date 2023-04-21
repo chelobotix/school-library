@@ -9,7 +9,7 @@ class Person < Nameable
     @id = Random.rand(1..1000)
     @name = name
     @age = age
-    parent_permission == 1 ? @parent_permission = true : @parent_permission = false
+    @parent_permission = parent_permission == 1
     @rentals = []
   end
 
