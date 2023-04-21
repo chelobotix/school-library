@@ -54,6 +54,7 @@
 - **Class Person, Student and Teacher**
 - **Decorator to Capitalize and Trim name**
 - **Association to Person - Book and Student - Classroom**
+- **Basic UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
